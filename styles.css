@@ -20,9 +20,9 @@ ul{
 }
 
 button{
-  background-color: inherit;
+  background-color: grey;
   border: solid;
-  border-radius: 10px;
+  border-radius: 5px;
   padding: 5px 8px;
 }
 
@@ -33,11 +33,11 @@ button:hover{
 }
 
 .square{
-  color: white;
+  color: black;
   padding-top: 15px;
   text-align: center;
   margin: 1%;
-  background-color: black;
+  background-color: white;
   width: 55px;
   height: 40px;
 
